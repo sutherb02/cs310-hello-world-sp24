@@ -17,4 +17,8 @@ public class Class1 {
         // placeholder method (v3.0)
         // revise for hotfix
     }
+
+    private void f4(){
+        // under development
+    }
 }
