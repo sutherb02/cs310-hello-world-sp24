@@ -19,6 +19,6 @@ public class Class1 {
     }
 
     private void f4(){
-        // under development
+        // finished method (v4.0)
     }
 }
